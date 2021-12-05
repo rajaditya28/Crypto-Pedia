@@ -3,9 +3,7 @@
 https://cryptoverse-70847.web.app/
 
 A Cryptocurrency App built using React as Frontend framework, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI 
-
-
-
+<br><br>
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
